@@ -1,0 +1,7 @@
+#! /usr/bin/env node
+
+var app = require('../index');
+var port = process.env.PORT || 5000;
+var server = app.listen(port, function () {
+  console.log('marty chat server listening at http://localhost:%s', port);
+});
