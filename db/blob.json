@@ -1,0 +1,17 @@
+{
+  "33322280-d56e-11e4-a7f8-853bc25dbdd9": {
+    "id": "33322280-d56e-11e4-a7f8-853bc25dbdd9",
+    "name": "Foo",
+    "messages": []
+  },
+  "33d95f00-d56e-11e4-a7f8-853bc25dbdd9": {
+    "id": "33d95f00-d56e-11e4-a7f8-853bc25dbdd9",
+    "name": "Bar",
+    "messages": []
+  },
+  "343adff0-d56e-11e4-a7f8-853bc25dbdd9": {
+    "id": "343adff0-d56e-11e4-a7f8-853bc25dbdd9",
+    "name": "Baz",
+    "messages": []
+  }
+}
